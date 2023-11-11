@@ -1,0 +1,7 @@
+author: jhnnsrs
+entrypoint: app
+identifier: webbie
+requirements: []
+scopes:
+- read
+version: 0.0.1
